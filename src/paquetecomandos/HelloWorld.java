@@ -5,5 +5,6 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		System.out.println("Soy Jose y he realizado cambios en la rama.");
 		System.out.println("Cambio hecho para solucionar el conflicto");
+		System.out.println("Soy Jose y he realizado otro cambio");
 	}
 }
